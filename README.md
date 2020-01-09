@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # vue-crm
 =======
-# vue-youtube
+# VueFin
 
 ## Project setup
 ```
