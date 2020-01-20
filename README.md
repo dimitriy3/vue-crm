@@ -3,6 +3,10 @@
 =======
 # VueFin
 
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
 ## Project setup
 ```
 npm install
